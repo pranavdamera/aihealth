@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477342638812",
+    "project_id": "aihealth-440ed",
+    "storage_bucket": "aihealth-440ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477342638812:android:491b3a0f2c024447140a19",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARb-cUnqvXO4ZoKFsMENkBA_g13qcrqLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
